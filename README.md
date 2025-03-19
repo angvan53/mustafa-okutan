@@ -1,4 +1,4 @@
-# prof_dr_mustafa-okutan
+# mustafa-okutan
 
 <h1 align="center">👋 Merhaba, ben Mustafa Okutan!</h1>  
 <h3 align="center">AWS Solutions Architect | Azure | DevOps Engineer | Cloud Enthusiast ☁️</h3>  

@@ -73,13 +73,13 @@ Here, you’ll find practical implementations using **Flask, Nginx, Boto3**, and
 | Project Name               | Description                                                                                   | Link                                            |
 |--------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------|
 | `flask-ec2-nginx`         | Deploying a Flask app on AWS EC2 with Nginx + Gunicorn, including HTTPS SSL setup             | [View Repo](https://github.com/angvan53/FLASK-PR/tree/main/flask-1-2-2/flask-02-Jinja_Template) |
-| `s3-static-website`        | Hosting a static website on Amazon S3 with CloudFront and Route 53 for global distribution    | [View Repo]() |
-| `boto3-scripts`            | Python scripts automating AWS services using Boto3 (S3 upload, EC2 start/stop, IAM management) | [View Repo]() |
-| `terraform-vpc-nat`        | Terraform code to build a secure AWS VPC with public/private subnets and NAT Gateway          | [View Repo]() |
-| `aws-lambda-api`           | Serverless API using AWS Lambda, API Gateway, and DynamoDB                                    | [View Repo]() |
+| `s3-static-website`        | Hosting a static website on Amazon S3 with CloudFront and Route 53 for global distribution    | [View Repo](https://github.com/angvan53) |
+| `boto3-scripts`            | Python scripts automating AWS services using Boto3 (S3 upload, EC2 start/stop, IAM management) | [View Repo](https://github.com/angvan53) |
+| `terraform-vpc-nat`        | Terraform code to build a secure AWS VPC with public/private subnets and NAT Gateway          | [View Repo](https://github.com/angvan53) |
+| `aws-lambda-api`           | Serverless API using AWS Lambda, API Gateway, and DynamoDB                                    | [View Repo](https://github.com/angvan53) |
 | `flask-rds-app`            | Flask application connected to AWS RDS (PostgreSQL) database                                  | [View Repo]([https://github.com/yourusername/flask-rds-app](https://github.com/angvan53/SQL-Flask)) |
-| `ec2-autoscaling-demo`      | Demo project for setting up EC2 Auto Scaling Group and Load Balancer                         | [View Repo]() |
-| `cloudwatch-monitoring`     | Custom CloudWatch metrics and SNS alerts for monitoring AWS resources                        | [View Repo]() |
+| `ec2-autoscaling-demo`      | Demo project for setting up EC2 Auto Scaling Group and Load Balancer                         | [View Repo](https://github.com/angvan53) |
+| `cloudwatch-monitoring`     | Custom CloudWatch metrics and SNS alerts for monitoring AWS resources                        | [View Repo](https://github.com/angvan53) |
 
 ---
 

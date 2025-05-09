@@ -33,14 +33,70 @@
 
 ![Mustafa's GitHub Stats](https://github.com/angvan53)
 
-### 🔥 My Activity Graph
+# 🌟 AWS Solutions & Practical Guides
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mustafaokutan&theme=radical)
+Welcome! This section is dedicated to developers and engineers who want **hands-on AWS solutions, clear step-by-step guides, and real-world deployment examples.**  
+Here, you’ll find practical implementations using **Flask, Nginx, Boto3**, and other AWS services, designed for both beginners and professionals.
 
-### 💻 Most Used Languages  
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaokutan&layout=compact&theme=radical)
+## 📌 Key Topics Covered
 
+### 🚀 Beginner AWS Projects
+- ✅ Setting up your AWS account with basic security (MFA, IAM users & roles)
+- ✅ Hosting a static website on S3
+- ✅ Launching an EC2 instance and deploying a simple website
+- ✅ Introduction to Boto3 for interacting with AWS services via Python
 
-### 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mustafaokutan&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+### 🛠️ Intermediate Solutions
+- ✅ **Deploying a Flask app with Nginx + Gunicorn on EC2**
+- ✅ **Using Route 53 with CloudFront and S3 for global content delivery**
+- ✅ **Connecting Flask to an RDS (MariaDB / PostgreSQL) instance**
+- ✅ **Basic Auto Scaling Group & Load Balancer configuration**
+- ✅ **Writing Python scripts with Boto3 to automate EC2, S3, and IAM**
+
+### 🏗️ Advanced Architectures
+- ✅ **Building a secure VPC with public/private subnets, NAT Gateway**
+- ✅ **Serverless APIs using AWS Lambda + API Gateway + DynamoDB**
+- ✅ **Infrastructure as Code with Terraform or CloudFormation**
+- ✅ **Implementing CI/CD pipelines (CodePipeline, CodeBuild, CodeDeploy)**
+- ✅ **Monitoring solutions using CloudWatch, SNS, and custom metrics**
+
+---
+
+## 📚 Learning Roadmaps & Checklists
+
+- AWS Certified Solutions Architect Associate – Study Plan
+- Step-by-step skill progression for developers moving to AWS Cloud
+- “What to learn next” recommendations after each project
+
+---
+
+## 💻 Sample Projects (Repository Links)
+
+| Project Name            | Description                                                     | Link        |
+|-----------------------|-----------------------------------------------------------------|-------------|
+| `flask-ec2-nginx`      | Flask app deployed on EC2 using Nginx + Gunicorn, with SSL      | [Repo](#)   |
+| `s3-static-site`       | Static website hosted on S3 with CloudFront & Route53           | [Repo](#)   |
+| `boto3-automation-scripts` | Python scripts automating AWS services with Boto3           | [Repo](#)   |
+| `vpc-nat-setup`        | Terraform code for VPC with public/private subnets & NAT        | [Repo](#)   |
+
+---
+
+## 💬 Why I Built This Page
+
+I created this GitHub page to **document solutions, provide reusable templates, and help others deploy faster on AWS.**  
+Many AWS tutorials focus on theory; here, I focus on **practical implementations and lessons learned from real deployments.**
+
+> "The best way to learn something is to teach it." – *Richard Feynman*
+
+---
+
+## 🚀 Let’s Collaborate!
+
+I’m continuously improving these solutions and adding new examples.  
+Feel free to open issues or pull requests to contribute or ask questions!
+
+---
+
+![AWS Certified](https://img.shields.io/badge/AWS-Certified-blue)

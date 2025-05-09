@@ -31,7 +31,7 @@
 
 ## 📊 My GitHub Statistics
 
-![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suemeyyecevik&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Mustafa's GitHub Stats](https://github.com/angvan53)
 
 ### 🔥 My Activity Graph
 

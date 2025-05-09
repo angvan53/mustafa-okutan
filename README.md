@@ -72,14 +72,14 @@ Here, you’ll find practical implementations using **Flask, Nginx, Boto3**, and
 
 | Project Name               | Description                                                                                   | Link                                            |
 |--------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------|
-| `flask-ec2-nginx`         | Deploying a Flask app on AWS EC2 with Nginx + Gunicorn, including HTTPS SSL setup             | [View Repo](https://github.com/yourusername/flask-ec2-nginx) |
-| `s3-static-website`        | Hosting a static website on Amazon S3 with CloudFront and Route 53 for global distribution    | [View Repo](https://github.com/yourusername/s3-static-website) |
-| `boto3-scripts`            | Python scripts automating AWS services using Boto3 (S3 upload, EC2 start/stop, IAM management) | [View Repo](https://github.com/yourusername/boto3-scripts) |
-| `terraform-vpc-nat`        | Terraform code to build a secure AWS VPC with public/private subnets and NAT Gateway          | [View Repo](https://github.com/yourusername/terraform-vpc-nat) |
-| `aws-lambda-api`           | Serverless API using AWS Lambda, API Gateway, and DynamoDB                                    | [View Repo](https://github.com/yourusername/aws-lambda-api) |
-| `flask-rds-app`            | Flask application connected to AWS RDS (PostgreSQL) database                                  | [View Repo](https://github.com/yourusername/flask-rds-app) |
-| `ec2-autoscaling-demo`      | Demo project for setting up EC2 Auto Scaling Group and Load Balancer                         | [View Repo](https://github.com/yourusername/ec2-autoscaling-demo) |
-| `cloudwatch-monitoring`     | Custom CloudWatch metrics and SNS alerts for monitoring AWS resources                        | [View Repo](https://github.com/yourusername/cloudwatch-monitoring) |
+| `flask-ec2-nginx`         | Deploying a Flask app on AWS EC2 with Nginx + Gunicorn, including HTTPS SSL setup             | [View Repo](https://github.com/angvan53/FLASK-PR/tree/main/flask-1-2-2/flask-02-Jinja_Template) |
+| `s3-static-website`        | Hosting a static website on Amazon S3 with CloudFront and Route 53 for global distribution    | [View Repo]() |
+| `boto3-scripts`            | Python scripts automating AWS services using Boto3 (S3 upload, EC2 start/stop, IAM management) | [View Repo]() |
+| `terraform-vpc-nat`        | Terraform code to build a secure AWS VPC with public/private subnets and NAT Gateway          | [View Repo]() |
+| `aws-lambda-api`           | Serverless API using AWS Lambda, API Gateway, and DynamoDB                                    | [View Repo]() |
+| `flask-rds-app`            | Flask application connected to AWS RDS (PostgreSQL) database                                  | [View Repo]([https://github.com/yourusername/flask-rds-app](https://github.com/angvan53/SQL-Flask)) |
+| `ec2-autoscaling-demo`      | Demo project for setting up EC2 Auto Scaling Group and Load Balancer                         | [View Repo]() |
+| `cloudwatch-monitoring`     | Custom CloudWatch metrics and SNS alerts for monitoring AWS resources                        | [View Repo]() |
 
 ---
 

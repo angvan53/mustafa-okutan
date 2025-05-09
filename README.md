@@ -4,7 +4,7 @@
 <h3 align="center">AWS Solutions Architect | Azure | DevOps Engineer | Cloud Enthusiast ☁️</h3>  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mustafa-okutan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/mustafa-okutan-dr/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mokutan@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail"></a>
 </p>
 
@@ -15,7 +15,7 @@
 
 🌱 **I am currently working on AWS EC2 Snapshots and AMIs.**  
 
-📫 **Contact me:** [LinkedIn](https://www.linkedin.com/in/mustafaokutan/) | [GitHub](https://github.com/mustafaokutan) | [Medium](https://medium.com/@mustafaokutan)  
+📫 **Contact me:** [LinkedIn](https://www.linkedin.com/in/mustafaokutan-dr/) | [GitHub](https://github.com/angvan53) | [Medium](https://medium.com/@mustafaokutan)  
 
 
 #### **🌩️ Cloud & DevOps**  

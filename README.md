@@ -29,10 +29,6 @@
 ![DevOps](https://img.shields.io/badge/DevOps-%230077B5.svg?style=for-the-badge&logo=devops&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 My GitHub Statistics
-
-![Mustafa's GitHub Stats](https://github.com/angvan53)
-
 # 🌟 AWS Solutions & Practical Guides
 
 Welcome! This section is dedicated to developers and engineers who want **hands-on AWS solutions, clear step-by-step guides, and real-world deployment examples.**  
@@ -72,14 +68,18 @@ Here, you’ll find practical implementations using **Flask, Nginx, Boto3**, and
 
 ---
 
-## 💻 Sample Projects (Repository Links)
+## 💻 Sample Projects
 
-| Project Name            | Description                                                     | Link        |
-|-----------------------|-----------------------------------------------------------------|-------------|
-| `flask-ec2-nginx`      | Flask app deployed on EC2 using Nginx + Gunicorn, with SSL      | [Repo](#)   |
-| `s3-static-site`       | Static website hosted on S3 with CloudFront & Route53           | [Repo](#)   |
-| `boto3-automation-scripts` | Python scripts automating AWS services with Boto3           | [Repo](#)   |
-| `vpc-nat-setup`        | Terraform code for VPC with public/private subnets & NAT        | [Repo](#)   |
+| Project Name               | Description                                                                                   | Link                                            |
+|--------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------|
+| `flask-ec2-nginx`         | Deploying a Flask app on AWS EC2 with Nginx + Gunicorn, including HTTPS SSL setup             | [View Repo](https://github.com/yourusername/flask-ec2-nginx) |
+| `s3-static-website`        | Hosting a static website on Amazon S3 with CloudFront and Route 53 for global distribution    | [View Repo](https://github.com/yourusername/s3-static-website) |
+| `boto3-scripts`            | Python scripts automating AWS services using Boto3 (S3 upload, EC2 start/stop, IAM management) | [View Repo](https://github.com/yourusername/boto3-scripts) |
+| `terraform-vpc-nat`        | Terraform code to build a secure AWS VPC with public/private subnets and NAT Gateway          | [View Repo](https://github.com/yourusername/terraform-vpc-nat) |
+| `aws-lambda-api`           | Serverless API using AWS Lambda, API Gateway, and DynamoDB                                    | [View Repo](https://github.com/yourusername/aws-lambda-api) |
+| `flask-rds-app`            | Flask application connected to AWS RDS (PostgreSQL) database                                  | [View Repo](https://github.com/yourusername/flask-rds-app) |
+| `ec2-autoscaling-demo`      | Demo project for setting up EC2 Auto Scaling Group and Load Balancer                         | [View Repo](https://github.com/yourusername/ec2-autoscaling-demo) |
+| `cloudwatch-monitoring`     | Custom CloudWatch metrics and SNS alerts for monitoring AWS resources                        | [View Repo](https://github.com/yourusername/cloudwatch-monitoring) |
 
 ---
 

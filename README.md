@@ -15,7 +15,7 @@
 
 🌱 **I am currently working on AWS EC2 Snapshots and AMIs.**  
 
-📫 **Contact me:** [LinkedIn](https://www.linkedin.com/in/mustafaokutan-dr/) | [GitHub](https://github.com/angvan53) | [Medium](https://medium.com/@mustafaokutan)  
+📫 **Contact me:** [LinkedIn](https://www.linkedin.com/in/mustafa-okutan-dr/) | [GitHub](https://github.com/angvan53) | [Medium](https://medium.com/@mustafaokutan)  
 
 
 #### **🌩️ Cloud & DevOps**  
